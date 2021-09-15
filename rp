@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Semiahmoo Resort Association</title>
+  <link rel="stylesheet" href="style.css">
+  <!--FONTS FROM GOOGLE APIS-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link  rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap">
+  <!--FONT AWESOME BOOTSTRAP CDN AND LOGOS-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.css">
+
+
+
+<!------------------------------------------------------------------------------------------HEADER-->
+
+<section class="header-a">
+    <nav>
+      <a href="index.html"><img src="images/3.logos/SRA_logo_full_white.png"></a>
+      <div class="nav-links" id="navLinks">
+        <i class="fas fa-times" onclick="hideMenu()"></i>
+        <ul>
+          <li><a href="index.html">HOME</a></li>
+          <li><a href="about.html">ABOUT</a></li>
+          <li><a href="community.html">COMMUNITY</a></li>
+          <li><a href="committiees.html">COMMITTEES</a></li>
+          <li><a href="board.html">BOARD MEMBERS</a></li>
+          <li><a href="map.html">AREA MAP</a></li>
+          <li><a href="documents.html">DOCUMENTS</a></li>
+          <li><a href="contact.html">CONTACT</a></li>
+        </ul>
+      </div>
+      <i class="fas fa-bars" onclick="showMenu()"></i>
+    </nav>
+</section>
+</head>
+
+
+<body>
+<!--------------------------------------------------------------------------------------Committees-->
+<section class="committees-container">
+
+
+  <section class= "sub-committees-container">
+    <h2>Architectural Standards (ASC)</h2>
+    <div class="About">
+        <p>The Semiahmoo Resort Association has architectural standards in order to preserve the natural setting and beauty of the resort and to establish and preserve a harmonious and aesthetically pleasing design for our community.</p>
+    </div>
+
+    <section class= "sub-committee-row">
+      <div class="committee-members">
+        <table>
+          <tr>
+            <th>Committee Members</th>
+            <th>Term of Office</th>
+          </tr>          
+          <tr>
+            <td> Steve Haines, Chairman</td>
+            <td> 1/1/2020 to 12/31/2021</td>
+          </tr>
+          <tr>
+            <td>Larry Kyle</td>
+            <td> 1/1/2020 to 12/31/2021</td>
+          </tr>
+          <tr>
+            <td>Karyn Zaslow</td>
+            <td> 9/10/2020 to 9/9/2022</td>
+          </tr> <tr>
+            <td>Todd Lapinsky</td>
+            <td> 9/9/2020 to 9/9/2022</td>
+          </tr> <tr>
+            <td>Bill Chaput</td>
+            <td> 2/19/2021 to 5/18/2023</td>
+          </tr>
+        </table>
+      </div>
+
+      <div class="quicklink">
+        <h1>Quick Links</h1>
+        <li><a href="committee_data/ASC/Architectural-Standards-Committee-Charter-Final-APB.04.15.2021rad-002.pdf">Architectural Standards Committee Charter </a></li>
+        <li><a href="committee_data/ASC/Answers-to-Common-Homeowner-Questions-Adopted-by-the-SRA-Board-of-Directors-05-14-2020.pdf">Answers to Common Homeowner Questions </a></li>
+        <li><a href="committee_data/ASC/Temporary-Structure-Request.pdf">Temporary Structure Request </a></li>
+        <li><a href="committee_data/ASC/Tree-Removal-Request-1.pdf">Tree Removal Request</a></li>
+      </div>
+  </section>
+</section>
+
+    <section class= "sub-committees-container">
+      <h2>Communications</h2>
+      <div class="About"><p>The Communications Committee, chaired by a Board Member of the Semiahmoo Resort Association, Inc. shall have the dual responsibility of (1) keeping the community accurately informed of Association activities and (2) supporting the Mission, Vision and Values of the Association. The Committee shall also assist the Board by communicating current and planned actions being considered by the Board, or other activities of community interest. The Committee shall also be responsible for developing and maintaining channels of outbound and inbound communication between the Board, its various committees, and the Residents</p></div>
+      <section class= "sub-committee-row">
+        <div class="committee-members">
+      <table>
+        <tr>
+          <th>Committee Members</th>
+          <th>Term of Office</th>
+        </tr>          
+        <tr>
+          <td> Patricia Oliveros, Chair</td>
+          <td> 1/1/2020 to 12/31/2021</td>
+        </tr>
+        <tr>
+          <td>Helen Worley</td>
+          <td>[MISSING]</td>
+        </tr>
+        <tr>
+          <td>Sylvia Hayden</td>
+          <td>[MISSING]</td>
+        </tr> <tr>
+          <td>Guy Kelly</td>
+          <td>[MISSING]</td>
+        </tr> 
+        <tr>
+          <td>Jennifer Plombon</td>
+          <td>[MISSING]</td>
+        </tr><tr>
+          <td>Kathy Stauffer</td>
+          <td>[MISSING]</td>
+        </tr>
+      </table>
+    </div>
+      <div class="quicklink">
+        <h1>Quick Links</h1>
+        <li><a href="committee_data/Communications/Communications-Committee-Charter-Final-approved-by-BOD-on-02-18-2021.pdf">Communications Committee Charter </a></li>
+        <li><a href="committee_data/Communications/Communications-In-and-Out-Channels-V4-02162021.pdf">Communications Channels </a></li>
+
+      </div>
+
+
+    </section>
+  </section>
+
+    <section class= "sub-committees-container">
+      <h2>Elections</h2>
+      <div class="About">
+      <p>The Elections Committee, chaired by a member volunteer of the Semiahmoo Resort Association, shall assist the Board in fulfilling its fiduciary duty by providing oversight of all Association Election activity, conducting all Election/voting related affairs, and provide recommended updates and changes to Election policy, procedure, and manual to the Board for approval, modification or rejection.</p>
+    </div>
+    <section class= "sub-committee-row">
+      <div class="committee-members">
+      <table>
+        <tr>
+          <th>Committee Members</th>
+          <th>Term of Office</th>
+        </tr>          
+        <tr>
+          <td> Helen Worley, Chair</td>
+          <td> [MISSING]</td>
+        </tr>
+        <tr>
+          <td>Margaret Vaughn</td>
+          <td>[MISSING]</td>
+        </tr>
+        <tr>
+          <td>Margaret Burton</td>
+          <td>[MISSING]</td>
+        </tr> <tr>
+          <td>Pam Moroso</td>
+          <td>[MISSING]</td>
+        </tr> 
+        <tr>
+          <td>Rob Lee</td>
+          <td>[MISSING]</td>
+        </tr>
+      </table>
+    </div>
+    <div class="quicklink">
+      <h1>Quick Links</h1>
+      <li><a href="committee_data/elections/2020-0104-Final-Elections-Committee-Charter.pdf">Elections Committee Charter </a></li>
+      <li><a href="committee_data/elections/Elections-Manual-2021.pdf">Elections Manual </a></li>
+    </div>
+    </section>
+  </section>
+
+    <section class= "sub-committees-container">
+      <h2>Safety and Security</h2>
+      <div class="About">
+      <p>The Safety and Security Committee (S&SC), chaired by a Board Member of the Semiahmoo Resort Association, (SRA), shall assist the Board in fulfilling its Duty of Care to the membership by providing oversight of the safety and security activities of the community. The S&SC may make recommendations to the Board for Board approval, modification or rejection of new or existing policies or procedures. Such recommendations shall include consideration of future needs and expectations consistent with the mission and vision of the SRA.</p></div>
+      <section class= "sub-committee-row">
+        <div class="committee-members">
+      <table>
+        <tr>
+          <th>Committee Members</th>
+          <th>Term of Office</th>
+        </tr>          
+        <tr>
+          <td> Jeff Ferry (Chair)</td>
+          <td> [MISSING]</td>
+        </tr>
+        <tr>
+          <td> Richard Arnold</td>
+          <td>[MISSING]</td>
+        </tr>
+        <tr>
+          <td>Joan Wagner</td>
+          <td>[MISSING]</td>
+        </tr> <tr>
+          <td>Michael Fensten</td>
+          <td>[MISSING]</td>
+        </tr> 
+        <tr>
+          <td>Valerie Norris</td>
+          <td>[MISSING]</td>
+        </tr>
+        <tr>
+          <td>Bal Pannu</td>
+          <td>[MISSING]</td>
+        </tr><tr>
+          <td>Pat Kingshott</td>
+          <td>[MISSING]</td>
+        </tr>
+      </table>
+    </div>
+    <div class="quicklink">
+      <h1>Quick Links</h1>
+      <li><a href="committee_data/safety and security/Safety-and-Security-Committee-Charter-FINAL-Approved-by-BOD-on-04-15-2021-PDF.pdf">Safety and Security Committee Charter </a></li>
+      <li><a href="committee_data/safety and security/Home-Security-Tips-for-Semiahmoo-Residents.pdf">Home Security Tips</a></li>
+    </div>
+    </section>
+  </section>
+
+
+    <section class= "sub-committees-container">
+      <h2>Finance</h2>
+      <div class="About">
+      <p>The Finance Committee, chaired by the Semiahmoo Resort Association, Inc. (SRA) Board Treasurer, shall assist the Board in fulfilling its fiduciary duty by providing oversight of the SRA’s financial affairs and making recommendations to the Board for Board approval, modification or rejection. Such recommendations shall include consideration of future needs and expectations consistent with the mission and vision of the SRA.</p></div>
+      <section class= "sub-committee-row">
+        <div class="committee-members">
+      <table>
+        <tr>
+          <th>Committee Members</th>
+          <th>Term of Office</th>
+        </tr>          
+        <tr>
+          <td>Joe Sothy (chair)</td>
+          <td> [MISSING]</td>
+        </tr>
+        <tr>
+          <td>Karen Swanson</td>
+          <td>[MISSING]</td>
+        </tr>
+        <tr>
+          <td>Tom Lampe</td>
+          <td>[MISSING]</td>
+        </tr> <tr>
+          <td>April Hashimoto</td>
+          <td>[MISSING]</td>
+        </tr> 
+      </table>
+    </div>
+    <div class="quicklink">
+      <h1>Quick Links</h1>
+      <li><a href="committee_data/finance/2020-1120-Financial-Committee-Charter-Final-_radam.pdf">Finance Committee Charter </a></li>
+      <li><a href="committee_data/finance/SRA-Revised-Budget-Message-May-2021.pdf">Revised 2021 Budget</a></li>
+    </div>
+    </section>
+  </section>
+
+
+
+    <section class= "sub-committees-container">
+      <h2>Environmental</h2>
+      <div class="About">
+      <p>The SRA Environmental Committee, chaired by a Board Member of the Semiahmoo Resort Association, Inc. (SRA), shall assist the Board in fulfilling its fiduciary duty to protect and preserve the environmental health of the community – its water, soil, air, plants and animals – and offer guidance to community members on methods they can use to enhance and protect their environment.</p></div>
+      <section class= "sub-committee-row">
+        <div class="committee-members">
+      <!--<p>WELCOME to the Semiahmoo Residents Association Environmental Committee’s Informational Website. Here you will find links to all kinds of helpful information. This includes information on how, what and where to recycle items, and dispose of yard waste, garbage and household hazardous wastes. Also, you can find where to buy recycled tools, building materials, home furnishings, and other items. You can learn about the latest environmental projects being worked on by our committee, as well as local, state and national environmental initiatives that can impact our daily lives. Finally, we are always on the lookout for new members and new issues to work on. Therefore, if you have a particular issue you would like us to look into or, better yet, if you would like to join us in addressing environmental issues that impact our daily lives here in Semiahmoo: Please email our the administrator at: lorithorne@semiahmooresortassociation.com
+      </p>
+      <p>Meet Your Environmental Committee
+        This Committee is answerable to the SRA Board, and its mission is to monitor activities and proposals of the SRA, HOAs, the City, residents, owners and contractors in order to preserve and enhance the Semiahmoo environment and provide a resource for our members- addressing the following but not limited to: air, water, aesthetics, energy, conservation, wildlife, cultural resources, health and safety of Semiahmoo and its surroundings. To learn more about our current members and the issues that are important to them, click  here!
+        
+        We would love to have more members with a passion for the environment, so if you are interested in joining us, please send an email to Lori Thorne at: lorithorne@semiahmooresortassociation.com and she will give us your contact information.”
+        </p>
+
+        <p>Issues currently being worked on by our committee. If the bullet item is in bold italics, you can click on it to get more information.
+          Updating undeveloped lot clearing standards
+          Chemical use impacts and acceptable alternatives
+          Water protection and water runoff issues
+          Monitoring City of Blaine’s activities regarding land use and development around Semiahmoo
+          Recommending the best plants for gardening and landscaping
+          Monitoring the Westman Marine Site Cleanup
+          Evaluating Additional Cleanup Sites Potentially Impacting Our Semiahmoo Community
+          Here is information that our Committee has already developed that you may find interesting and helpful. Just click on the subject to learn more!
+          Recycling Cans/Glass, Paper and Cardboard
+          Recycling or Disposal of Electronic Devices
+          Yard & Food Waste Recycling
+          Recycling Tools and Home Furnishings and Fixtures
+          Recycling Clothes, Toys, Bicycles, etc.
+          Home Composting
+          Waste Disposal and Junk Removal
+          Household Hazardous Waste
+          Oil Spills Impacting Water In Our Area
+          Compare Semiahmoo to Other Areas in Washington Regarding Environmental Issues
+          Contaminated Sites Near US
+          Articles on the Animals of Semiahmoo
+          Recent Environmental Initiatives
+          Managing and controlling dog waste
+          Living with solar panels in Semiahmoo
+          Useful information on land management and planting with native species</p>
+        -->
+      <table>
+        <tr>
+          <th>Committee Members</th>
+          <th>Term of Office</th>
+        </tr>          
+        <tr>
+          <td> Jeff Ferry (Chair)</td>
+          <td> [MISSING]</td>
+        </tr>
+        <tr>
+          <td> Richard Arnold</td>
+          <td>[MISSING]</td>
+        </tr>
+        <tr>
+          <td>Joan Wagner</td>
+          <td>[MISSING]</td>
+        </tr> <tr>
+          <td>Michael Fensten</td>
+          <td>[MISSING]</td>
+        </tr> 
+        <tr>
+          <td>Valerie Norris</td>
+          <td>[MISSING]</td>
+        </tr>
+        <tr>
+          <td>Bal Pannu</td>
+          <td>[MISSING]</td>
+        </tr><tr>
+          <td>Pat Kingshott</td>
+          <td>[MISSING]</td>
+        </tr>
+      </table>
+    </div>
+    <div class="quicklink">
+      <h1>Quick Links</h1>
+      <li><a href="committee_data/environmental/Environmental-Committee-Charter-6-11-2021-FINAL-7-22-2021.pdf">Environmental Committee Charter </a></li>
+      <li><a href="committee_data/environmental/Salmonella-Alert.pdf">Salmonella Alert</a></li>
+    </div>
+    </section>
+  </section>
+
+    <section class= "sub-committees-container">
+      <h2>Governance</h2>
+      <div class="About">
+      <p>The Governance Committee (GC) shall assist the Board in fulfilling its fiduciary requirement to provide clear, concise, and consistent requirements regarding the legal administration of the Association. The GC shall be chaired by the Board Vice President who shall make Governance Committee and document recommendations to the Board for Board approval, modification or rejection, or presentation to the Community for a membership vote. Such recommendations shall include consideration of future needs and expectations consistent with the mission and vision of the SRA.</p></div>
+      <section class= "sub-committee-row">
+        <div class="committee-members">
+      <table>
+        <tr>
+          <th>Committee Members</th>
+          <th>Term of Office</th>
+        </tr>          
+        <tr>
+          <td>Jeff Ferry (chair)</td>
+          <td> [MISSING]</td>
+        </tr>
+        <tr>
+          <td>Jane Moore</td>
+          <td>[MISSING]</td>
+        </tr>
+        <tr>
+          <td>Stephen Ghysels</td>
+          <td>[MISSING]</td>
+        </tr> <tr>
+          <td>Stephen Haines</td>
+          <td>[MISSING]</td>
+        </tr> 
+      </table>
+    </div>
+    <div class="quicklink">
+      <h1>Quick Links</h1>
+      <li><a href="committee_data/governance/2020-0105-Governance-Final-Charter-.pdf">Governance Committee Charter </a></li>
+      <li><a href="committee_data/governance/Governance-Committee-Meeting-Minutes-Final-06142021.pdf">Previous Meeting Minutes</a></li>
+    </div>
+    </section>
+  </section>
+
+    <section class= "sub-committees-container">
+      <h2>Maintenance</h2>
+      <div class="About">
+      <p>The Maintenance Committee (MC) shall assist the Semiahmoo Residents Association (SRA) Board of Directors (Board) in fulfilling its obligation to provide oversight of the condition & maintenance of SRA property and other property where SRA has maintenance responsibilities as specified by SRA and Neighborhood HOA (NHOA) CC&Rs.</p></div>
+      <section class= "sub-committee-row">
+        <div class="committee-members">
+      <table>
+        <tr>
+          <th>Committee Members</th>
+          <th>Term of Office</th>
+        </tr>          
+        <tr>
+          <td>John Palan (chair)</td>
+          <td> [MISSING]</td>
+        </tr>
+        <tr>
+          <td>Bill McNally</td>
+          <td>[MISSING]</td>
+        </tr>
+        <tr>
+          <td>Ed Castaneda</td>
+          <td>[MISSING]</td>
+        </tr> <tr>
+          <td>Jonathan Huggett</td>
+          <td>[MISSING]</td>
+        </tr> 
+      </table>
+    </div>
+    <div class="quicklink">
+      <h1>Quick Links</h1>
+      <li><a href="committee_data/maintenance/Maintenance-Committee-Charter-FINAL-revised-7-22-2021.pdf">Maintenance Committee Charter </a></li>
+      <li><a href="committee_data/maintenance/2021-08-04-Maintenance-Committee-Minutes-APPROVED.pdf">Previous Meeting Minutes </a></li>
+    </div>
+    </section>
+  
+  </section>
+  <div class="notification-banner">
+    <h1>Interested in serving any of these comittees? Contact Justine Brookes at justine@srahoa.com
+    </h1>
+  </div>
+</section>
+
+
+    <!--FOOTER -->
+<section class="footer">
+  <h4>Semiahmoo Residents Association</h4>
+  <div class = "footer_row">
+    <p>
+      <a href="https://www.google.com/maps/dir/48.970243,-122.796347//@48.9700005,-122.796906,302m/data=!3m1!1e3"  style="color: white">
+        <i class="fas fa-map-marker-alt"></i>5787 Semiahmoo Drive, Blaine WA 98230 
+      </a>
+      <a href="tel:(360) 371-7796" style="color: white">
+        <i class="fas fa-phone"></i>360.371.7796
+      </a>
+      <a href="mailto: info@srahoa.com" style="color: white">
+        <i class="fas fa-envelope"></i>info@srahoa.com
+      </a>
+    </p>
+  </div>
+
+  <div class="icons">
+    <a href="https://www.facebook.com/pages/Semiahmoo-Resort-Association/846961605389703"><i class="fab fa-facebook"></i></a>
+    <i class="fab fa-instagram"></i>
+    <i class="fab fa-twitter"></i>
+    <a href="https://www.youtube.com/channel/UCpyXoT9YXD5qqrjU69zy_uw"><i class="fab fa-youtube"></i></a>
+  </div>
+</section>
